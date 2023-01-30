@@ -49,6 +49,7 @@ letter-spacing: -0.02em;
 
 .nav-right{
     display: inline-block;
+    margin-left: 752px;
  
 }
 .nav-button{
@@ -87,6 +88,7 @@ letter-spacing: -0.02em;
 
     letter-spacing: 0.02em;
     color: #1B0A42;
+    margin: 0;
     margin-bottom: 10px;
 
 
@@ -139,7 +141,11 @@ letter-spacing: -0.02em;
 .text-section{
     margin-left: 200px;
     margin-top: 191px;
+    display: inline-block;
+    
 }
 .image-section{
     display: inline-block;
+    margin-left: 115px;
+    margin-top: 96px;
 }
