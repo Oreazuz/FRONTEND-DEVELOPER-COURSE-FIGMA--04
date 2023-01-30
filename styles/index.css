@@ -1,0 +1,145 @@
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+.nav-title{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+
+    letter-spacing: -0.02em;
+
+    color: #0A1B32;
+
+    margin-top: 37px;
+    margin-left: 80px;
+    margin-right: 98px;
+    display: inline;
+
+}
+.nav-dot{
+ 
+letter-spacing: -0.02em;
+    color: #824FF1;
+}
+.nav-content{
+    display:inline-block;
+    margin-right:38px;
+    margin-top: 48px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+}
+.nav-left{
+    padding:none;
+}
+
+.nav-right{
+    display: inline-block;
+ 
+}
+.nav-button{
+    width:120px;
+    height: 60px;
+    max-width: 100%;
+    max-height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+    background: #4F56F1;
+    border-radius: 6px;
+    border: none;
+}
+
+.main-title{
+    width: 500px;
+    height: 152px;
+    max-width: 100%;
+    max-height: 100%;
+
+    font-family: 'Ramaraja', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-bottom: 10px;
+
+
+}
+.main-content{
+    width: 538px;
+    height:96px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+    letter-spacing: 0.02em;
+
+    color: #9A9A9A;
+    margin: 0;
+    margin-top: 10px;
+}
+.main-button{
+    background: #4F56F1;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    border: none;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+
+    margin-top: 50px;
+}
+
+.main-image{
+    width: 653px;
+    height: 604px;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.text-section{
+    margin-left: 200px;
+    margin-top: 191px;
+}
+.image-section{
+    display: inline-block;
+}
