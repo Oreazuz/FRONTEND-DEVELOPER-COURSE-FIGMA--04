@@ -32,6 +32,9 @@ letter-spacing: -0.02em;
     margin-right:38px;
     margin-top: 48px;
 
+}
+.nav-content-links{
+    
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -43,6 +46,7 @@ letter-spacing: -0.02em;
     letter-spacing: 0.02em;
 
     color: #1B0A42;
+    text-decoration: none;
 }
 .nav-left{
     padding:none;
